@@ -65,6 +65,7 @@ div#gNav{
 div#gNav ul{
     background: url("/images/bg_gnav.gif") repeat-x;
     border: 1px solid #000;
+
     height: 22px;
     padding: 12px 0;
 }
