@@ -63,7 +63,11 @@ div#gNav{
 }
 
 div#gNav ul{
+<<<<<<< HEAD
     background: url(../images/bg_gnav.gif) repeat-x;
+=======
+    background: url("/images/bg_gnav.gif") repeat-x;
+>>>>>>> f319edd3cb3778710cb822647ccaf729e2e1751b
     border: 1px solid #000;
 
     height: 22px;
@@ -204,7 +208,11 @@ div#sidebar ul.sbLink{
 }
 
 div#sidebar ul.sbLink li{
+<<<<<<< HEAD
     background: url(../images/ico_arrow.gif) no-repeat left center;
+=======
+    background: url("/images/ico_arrow.gif") no-repeat left center;
+>>>>>>> f319edd3cb3778710cb822647ccaf729e2e1751b
     padding-left: 15px;
     margin-bottom: 3px;
 }
